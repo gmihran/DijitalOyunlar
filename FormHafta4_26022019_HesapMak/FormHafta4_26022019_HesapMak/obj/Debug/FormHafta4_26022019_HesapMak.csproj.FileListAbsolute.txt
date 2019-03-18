@@ -1,0 +1,9 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\bin\Debug\FormHafta4_26022019_HesapMak.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\bin\Debug\FormHafta4_26022019_HesapMak.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\bin\Debug\FormHafta4_26022019_HesapMak.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\obj\Debug\FormHafta4_26022019_HesapMak.Form1.resources
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\obj\Debug\FormHafta4_26022019_HesapMak.Properties.Resources.resources
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\obj\Debug\FormHafta4_26022019_HesapMak.csproj.GenerateResource.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\obj\Debug\FormHafta4_26022019_HesapMak.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\obj\Debug\FormHafta4_26022019_HesapMak.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta4_26022019_HesapMak\FormHafta4_26022019_HesapMak\obj\Debug\FormHafta4_26022019_HesapMak.pdb
