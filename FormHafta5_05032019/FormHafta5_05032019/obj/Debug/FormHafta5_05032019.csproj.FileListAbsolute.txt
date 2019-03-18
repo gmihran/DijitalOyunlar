@@ -1,0 +1,10 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\bin\Debug\FormHafta5_05032019.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\bin\Debug\FormHafta5_05032019.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\bin\Debug\FormHafta5_05032019.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\obj\Debug\FormHafta5_05032019.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\obj\Debug\FormHafta5_05032019.Form1.resources
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\obj\Debug\FormHafta5_05032019.Properties.Resources.resources
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\obj\Debug\FormHafta5_05032019.csproj.GenerateResource.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\obj\Debug\FormHafta5_05032019.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\obj\Debug\FormHafta5_05032019.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta5_05032019\FormHafta5_05032019\obj\Debug\FormHafta5_05032019.pdb
