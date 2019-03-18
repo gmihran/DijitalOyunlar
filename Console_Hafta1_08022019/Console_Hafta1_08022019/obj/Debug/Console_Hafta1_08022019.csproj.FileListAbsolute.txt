@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\Console_Hafta1_08022019\Console_Hafta1_08022019\bin\Debug\Console_Hafta1_08022019.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\Console_Hafta1_08022019\Console_Hafta1_08022019\bin\Debug\Console_Hafta1_08022019.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\Console_Hafta1_08022019\Console_Hafta1_08022019\bin\Debug\Console_Hafta1_08022019.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\Console_Hafta1_08022019\Console_Hafta1_08022019\obj\Debug\Console_Hafta1_08022019.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\Console_Hafta1_08022019\Console_Hafta1_08022019\obj\Debug\Console_Hafta1_08022019.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\Console_Hafta1_08022019\Console_Hafta1_08022019\obj\Debug\Console_Hafta1_08022019.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\Console_Hafta1_08022019\Console_Hafta1_08022019\obj\Debug\Console_Hafta1_08022019.pdb
