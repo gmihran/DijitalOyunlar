@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\EkCalisma08022019\EkCalisma08022019\bin\Debug\EkCalisma08022019.exe.config
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\EkCalisma08022019\EkCalisma08022019\bin\Debug\EkCalisma08022019.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\EkCalisma08022019\EkCalisma08022019\bin\Debug\EkCalisma08022019.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\EkCalisma08022019\EkCalisma08022019\obj\Debug\EkCalisma08022019.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\EkCalisma08022019\EkCalisma08022019\obj\Debug\EkCalisma08022019.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\EkCalisma08022019\EkCalisma08022019\obj\Debug\EkCalisma08022019.exe
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\EkCalisma08022019\EkCalisma08022019\obj\Debug\EkCalisma08022019.pdb
