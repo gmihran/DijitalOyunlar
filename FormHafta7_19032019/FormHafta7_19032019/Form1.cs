@@ -116,6 +116,27 @@ namespace FormHafta7_19032019
                 }
             }
         }
+        string parola;
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //parola = textBox1.Text;
+            if (textBox1.Text == textBox3.Text)
+                //Parola oluşturuldu
+                parola = textBox3.Text;
+            
+            if ((textBox1.Text=="Admin"&&textBox2.Text=="Admin")||(textBox1.Text=="Guest" && textBox2.Text=="123"))
+            {
+                //Giriş yapılıyor
+                
+                Form2 form = new Form2();
+                
+                form.Show();
+                this.Hide();
+             
+
+
+            }
+        }
     }
 
         

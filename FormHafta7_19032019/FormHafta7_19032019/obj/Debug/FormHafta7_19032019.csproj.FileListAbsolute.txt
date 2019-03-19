@@ -8,3 +8,4 @@ C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta7_19
 C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta7_19032019\FormHafta7_19032019\obj\Debug\FormHafta7_19032019.csproj.CoreCompileInputs.cache
 C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta7_19032019\FormHafta7_19032019\obj\Debug\FormHafta7_19032019.exe
 C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta7_19032019\FormHafta7_19032019\obj\Debug\FormHafta7_19032019.pdb
+C:\Users\gozdemihranaltinsoy\Documents\Visual Studio 2017\Projects\FormHafta7_19032019\FormHafta7_19032019\obj\Debug\FormHafta7_19032019.Form2.resources
